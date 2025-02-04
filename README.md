@@ -21,3 +21,5 @@ Heyhey, my name is Steven! I'm a software engineer passionate about audio softwa
 - 💼 LinkedIn: [https://www.linkedin.com/in/steven-van-esch-developer/](https://www.linkedin.com/in/steven-van-esch-developer/)
 - 📧 Email: [stevenvanesch.sve@gmail.com](mailto:stevenvanesch.sve@gmail.com)
 
+## 📊 Stats
+![StevenRVE's GitHub stats](https://github-readme-stats.vercel.app/api?username=StevenRVE&show_icons=true&theme=gruvbox)
